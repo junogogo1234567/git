@@ -1,3 +1,5 @@
 hello
 hi
-hi hello world!
+<<<<<<< HEAD
+hi hello world hi
+
